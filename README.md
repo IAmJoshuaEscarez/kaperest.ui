@@ -7,7 +7,15 @@
 
 A modern React frontend for the KapeRest café management system, built with TypeScript, Vite, and Tailwind CSS.
 
-## 📋 Table of Contents
+## � Related Repositories
+
+| Repository | Description | Technology | Link |
+|------------|-------------|------------|------|
+| **KapeRest Backend** | ASP.NET Core Web API with Clean Architecture | C# .NET 9.0 | [GitHub](https://github.com/Jesc06/KapeRest.Api.git) |
+
+> **Note**: This frontend requires the backend API to be running. See the backend repository for API setup instructions.
+
+## �📋 Table of Contents
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
@@ -213,4 +221,4 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 
 ---
 
-Built with ❤️ by John Joshua Manalo Escarez
+Built with ❤️ for the KapeRest café management system.
