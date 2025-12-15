@@ -5,7 +5,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.0+-purple)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC)](https://tailwindcss.com/)
 
-A modern React frontend for the KapeRest café management system, built with TypeScript, Vite, and Tailwind CSS.
+React frontend for the KapeRest café management system, built with TypeScript, Vite, and Tailwind CSS.
 
 ## � Related Repositories
 
