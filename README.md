@@ -1,4 +1,4 @@
-# ☕ KapeRest UI
+# KapeRest UI ☕
 
 A modern, responsive frontend dashboard for the **KapeRest Café Management System**. Built with a focus on speed, type-safety, and intuitive user experience.
 
