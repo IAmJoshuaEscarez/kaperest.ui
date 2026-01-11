@@ -21,7 +21,7 @@ A modern, responsive frontend dashboard for the **KapeRest Café Management Syst
 * **State & Logic:** React Context API & Axios
 * **Icons:** Lucide React
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -55,7 +55,7 @@ npm run dev
 
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
